@@ -1,0 +1,604 @@
+SalesYear_Month,companyName,total_quantity_order_supplier,monthly_revenue_supplier
+1996-Aug,Bigfoot Breweries,129,1763.6
+1996-Aug,Exotic Liquids,93,1017.6
+1996-Aug,Forêts d'érables,52,2048.8
+1996-Aug,Formaggi Fortini s.r.l.,89,1487.7
+1996-Aug,G'day Mate,38,830.88
+1996-Aug,Gai pâturage,97,2842
+1996-Aug,Heli Süßwaren GmbH & Co. KG,15,394.88
+1996-Aug,Karkki Oy,48,691.44
+1996-Aug,Leka Trading,101,2380.3
+1996-Aug,Lyngbysild,15,122.4
+1996-Aug,Ma Maison,30,437.1
+1996-Aug,Mayumi's,50,382.4
+1996-Aug,New England Seafood Cannery,100,1308.3
+1996-Aug,New Orleans Cajun Delights,20,340
+1996-Aug,Nord-Ost-Fisch Handelsgesellschaft mbH,6,124.2
+1996-Aug,Norske Meierier,64,432
+1996-Aug,Pasta Buttini s.r.l.,2,31.2
+1996-Aug,Pavlova Ltd.,95,2347.9
+1996-Aug,Plutzer Lebensmittelgroßmärkte AG,96,2816.8
+1996-Aug,Refrescos Americanas LTDA,40,141.84
+1996-Aug,Specialty Biscuits Ltd.,48,1850.5
+1996-Aug,Svensk Sjöföda AB,55,756
+1996-Aug,Tokyo Traders,39,937.44
+1996-Dec,Aux joyeux ecclésiastiques,60,6568.8
+1996-Dec,Bigfoot Breweries,80,1062.4
+1996-Dec,Escargots Nouveaux,95,837.4
+1996-Dec,Exotic Liquids,40,468.6
+1996-Dec,Forêts d'érables,30,1182
+1996-Dec,Formaggi Fortini s.r.l.,251,3618.98
+1996-Dec,G'day Mate,168,3908.52
+1996-Dec,Gai pâturage,123,2946.08
+1996-Dec,Grandma Kelly's Homestead,10,192
+1996-Dec,Heli Süßwaren GmbH & Co. KG,77,1366.05
+1996-Dec,Karkki Oy,50,699
+1996-Dec,Lyngbysild,88,765.12
+1996-Dec,Ma Maison,145,2420.6
+1996-Dec,Mayumi's,105,1095.3
+1996-Dec,New England Seafood Cannery,8,55.44
+1996-Dec,New Orleans Cajun Delights,52,846.4
+1996-Dec,Nord-Ost-Fisch Handelsgesellschaft mbH,18,335.34
+1996-Dec,Norske Meierier,279,4387.6
+1996-Dec,Pasta Buttini s.r.l.,38,1018.4
+1996-Dec,Pavlova Ltd.,85,1675.44
+1996-Dec,PB Knäckebröd AB,40,288
+1996-Dec,Plutzer Lebensmittelgroßmärkte AG,104,5146.8
+1996-Dec,Refrescos Americanas LTDA,30,108
+1996-Dec,Specialty Biscuits Ltd.,118,3129.6
+1996-Dec,Svensk Sjöföda AB,6,72.96
+1996-Dec,Tokyo Traders,100,1044.8
+1996-Jul,Aux joyeux ecclésiastiques,48,691.2
+1996-Jul,Bigfoot Breweries,20,288
+1996-Jul,Cooperativa de Quesos 'Las Cabras',24,514.56
+1996-Jul,Exotic Liquids,105,1444
+1996-Jul,Forêts d'érables,15,443.25
+1996-Jul,Formaggi Fortini s.r.l.,55,1136.28
+1996-Jul,G'day Mate,90,3350.4
+1996-Jul,Gai pâturage,140,5026
+1996-Jul,Grandma Kelly's Homestead,15,360
+1996-Jul,Heli Süßwaren GmbH & Co. KG,25,877.5
+1996-Jul,Karkki Oy,55,823.6
+1996-Jul,Leka Trading,10,98
+1996-Jul,Ma Maison,21,342.72
+1996-Jul,Mayumi's,9,167.4
+1996-Jul,New England Seafood Cannery,101,1068.03
+1996-Jul,New Orleans Cajun Delights,112,1597.4
+1996-Jul,Nord-Ost-Fisch Handelsgesellschaft mbH,60,931.5
+1996-Jul,Norske Meierier,85,161.5
+1996-Jul,Pasta Buttini s.r.l.,67,1063.1
+1996-Jul,Pavlova Ltd.,166,2477
+1996-Jul,PB Knäckebröd AB,6,95.76
+1996-Jul,Plutzer Lebensmittelgroßmärkte AG,37,1270.8
+1996-Jul,Refrescos Americanas LTDA,43,146.7
+1996-Jul,Specialty Biscuits Ltd.,70,2702.4
+1996-Jul,Svensk Sjöföda AB,26,400.8
+1996-Jul,Tokyo Traders,57,384
+1996-Nov,Aux joyeux ecclésiastiques,184,15857.04
+1996-Nov,Bigfoot Breweries,46,509.6
+1996-Nov,Cooperativa de Quesos 'Las Cabras',36,564.48
+1996-Nov,Exotic Liquids,27,356.4
+1996-Nov,Formaggi Fortini s.r.l.,120,1165
+1996-Nov,G'day Mate,20,848
+1996-Nov,Gai pâturage,143,3587.68
+1996-Nov,Grandma Kelly's Homestead,140,3920
+1996-Nov,Heli Süßwaren GmbH & Co. KG,76,1070.4
+1996-Nov,Karkki Oy,62,908.3
+1996-Nov,Leka Trading,86,1234.63
+1996-Nov,Ma Maison,126,885.3
+1996-Nov,New England Seafood Cannery,17,158.9
+1996-Nov,New Orleans Cajun Delights,65,1111.6
+1996-Nov,Norske Meierier,73,1992.56
+1996-Nov,Pasta Buttini s.r.l.,70,1388
+1996-Nov,Pavlova Ltd.,92,1750.36
+1996-Nov,PB Knäckebröd AB,25,180
+1996-Nov,Plutzer Lebensmittelgroßmärkte AG,147,6447.6
+1996-Nov,Refrescos Americanas LTDA,45,160.2
+1996-Nov,Specialty Biscuits Ltd.,85,620
+1996-Nov,Svensk Sjöföda AB,20,288.8
+1996-Nov,Tokyo Traders,30,595.2
+1996-Oct,Aux joyeux ecclésiastiques,24,4062.8
+1996-Oct,Bigfoot Breweries,80,1000.8
+1996-Oct,Cooperativa de Quesos 'Las Cabras',50,672
+1996-Oct,Escargots Nouveaux,30,254.4
+1996-Oct,Exotic Liquids,56,680.96
+1996-Oct,Forêts d'érables,28,1103.2
+1996-Oct,Formaggi Fortini s.r.l.,181,3208.63
+1996-Oct,G'day Mate,76,1784.96
+1996-Oct,Gai pâturage,58,2228.6
+1996-Oct,Grandma Kelly's Homestead,6,120
+1996-Oct,Heli Süßwaren GmbH & Co. KG,78,1700.65
+1996-Oct,Karkki Oy,51,734.4
+1996-Oct,Leka Trading,50,1488
+1996-Oct,Lyngbysild,30,288
+1996-Oct,Ma Maison,55,702.9
+1996-Oct,Mayumi's,36,473
+1996-Oct,New England Seafood Cannery,32,241.78
+1996-Oct,New Orleans Cajun Delights,92,1555.52
+1996-Oct,Nord-Ost-Fisch Handelsgesellschaft mbH,58,1047.42
+1996-Oct,Norske Meierier,78,1151.2
+1996-Oct,Pasta Buttini s.r.l.,28,596.16
+1996-Oct,Pavlova Ltd.,259,8133.32
+1996-Oct,PB Knäckebröd AB,40,288
+1996-Oct,Plutzer Lebensmittelgroßmärkte AG,114,2149.6
+1996-Oct,Specialty Biscuits Ltd.,44,379.35
+1996-Oct,Svensk Sjöföda AB,88,1372.8
+1996-Oct,Zaanse Snoepfabriek,16,97.28
+1996-Sep,Aux joyeux ecclésiastiques,90,1252.8
+1996-Sep,Bigfoot Breweries,14,156.8
+1996-Sep,Cooperativa de Quesos 'Las Cabras',12,201.6
+1996-Sep,Escargots Nouveaux,30,286.2
+1996-Sep,Exotic Liquids,60,896
+1996-Sep,Forêts d'érables,125,4826.5
+1996-Sep,Formaggi Fortini s.r.l.,60,1477.6
+1996-Sep,G'day Mate,30,786
+1996-Sep,Gai pâturage,40,1430
+1996-Sep,Grandma Kelly's Homestead,30,600
+1996-Sep,Karkki Oy,30,480
+1996-Sep,Leka Trading,64,2150.4
+1996-Sep,Ma Maison,5,29.5
+1996-Sep,New England Seafood Cannery,60,753.2
+1996-Sep,New Orleans Cajun Delights,80,1213.6
+1996-Sep,Nord-Ost-Fisch Handelsgesellschaft mbH,10,207
+1996-Sep,Norske Meierier,28,748.4
+1996-Sep,Pasta Buttini s.r.l.,24,729.6
+1996-Sep,Pavlova Ltd.,160,3589
+1996-Sep,Plutzer Lebensmittelgroßmärkte AG,67,3454.3
+1996-Sep,Specialty Biscuits Ltd.,53,474.5
+1996-Sep,Svensk Sjöföda AB,52,638.4
+1997-Apr,Aux joyeux ecclésiastiques,25,4132.5
+1997-Apr,Bigfoot Breweries,33,474
+1997-Apr,Exotic Liquids,52,804
+1997-Apr,Forêts d'érables,43,1202.4
+1997-Apr,Formaggi Fortini s.r.l.,95,2165
+1997-Apr,G'day Mate,27,730.8
+1997-Apr,Gai pâturage,110,3317.4
+1997-Apr,Grandma Kelly's Homestead,84,2575
+1997-Apr,Heli Süßwaren GmbH & Co. KG,198,6133.2
+1997-Apr,Karkki Oy,25,500
+1997-Apr,Leka Trading,94,1674.35
+1997-Apr,Lyngbysild,30,291.3
+1997-Apr,Ma Maison,20,149
+1997-Apr,Mayumi's,92,1864.2
+1997-Apr,New England Seafood Cannery,140,1405.3
+1997-Apr,New Orleans Cajun Delights,134,2526.15
+1997-Apr,Nord-Ost-Fisch Handelsgesellschaft mbH,20,414.24
+1997-Apr,Norske Meierier,26,293.2
+1997-Apr,Pasta Buttini s.r.l.,154,5517.6
+1997-Apr,Pavlova Ltd.,95,2557.75
+1997-Apr,PB Knäckebröd AB,10,72
+1997-Apr,Plutzer Lebensmittelgroßmärkte AG,218,8398.4
+1997-Apr,Refrescos Americanas LTDA,37,159.75
+1997-Apr,Specialty Biscuits Ltd.,97,3674
+1997-Apr,Tokyo Traders,32,1790.4
+1997-Apr,Zaanse Snoepfabriek,21,211.01
+1997-Aug,Aux joyeux ecclésiastiques,41,643.5
+1997-Aug,Bigfoot Breweries,30,486
+1997-Aug,Cooperativa de Quesos 'Las Cabras',46,1372.8
+1997-Aug,Escargots Nouveaux,6,79.5
+1997-Aug,Exotic Liquids,140,2524
+1997-Aug,Forêts d'érables,115,4547.9
+1997-Aug,Formaggi Fortini s.r.l.,75,2610
+1997-Aug,G'day Mate,57,2002.6
+1997-Aug,Gai pâturage,30,1020
+1997-Aug,Grandma Kelly's Homestead,105,2800
+1997-Aug,Heli Süßwaren GmbH & Co. KG,35,929.09
+1997-Aug,Karkki Oy,60,1015.94
+1997-Aug,Leka Trading,35,1184.5
+1997-Aug,Lyngbysild,43,434.8
+1997-Aug,Ma Maison,42,497.1
+1997-Aug,Mayumi's,37,624.3
+1997-Aug,New England Seafood Cannery,60,1104
+1997-Aug,New Orleans Cajun Delights,71,1478.28
+1997-Aug,Nord-Ost-Fisch Handelsgesellschaft mbH,30,776.7
+1997-Aug,Norske Meierier,105,1823.75
+1997-Aug,Pasta Buttini s.r.l.,80,2926
+1997-Aug,Pavlova Ltd.,117,5568.75
+1997-Aug,PB Knäckebröd AB,105,2085
+1997-Aug,Plutzer Lebensmittelgroßmärkte AG,125,5811.34
+1997-Aug,Refrescos Americanas LTDA,23,93.38
+1997-Aug,Specialty Biscuits Ltd.,180,1698.7
+1997-Aug,Svensk Sjöföda AB,50,731.25
+1997-Aug,Tokyo Traders,18,418.5
+1997-Dec,Aux joyeux ecclésiastiques,163,6377.1
+1997-Dec,Bigfoot Breweries,28,452
+1997-Dec,Cooperativa de Quesos 'Las Cabras',85,1601.25
+1997-Dec,Exotic Liquids,105,1685.75
+1997-Dec,Forêts d'érables,62,2578.98
+1997-Dec,Formaggi Fortini s.r.l.,189,2906.65
+1997-Dec,G'day Mate,211,9351.25
+1997-Dec,Gai pâturage,80,4043.75
+1997-Dec,Grandma Kelly's Homestead,68,2086.5
+1997-Dec,Heli Süßwaren GmbH & Co. KG,123,2973.66
+1997-Dec,Karkki Oy,4,68
+1997-Dec,Leka Trading,74,1641.1
+1997-Dec,Lyngbysild,27,243.68
+1997-Dec,Ma Maison,79,1202.93
+1997-Dec,Mayumi's,35,381
+1997-Dec,New England Seafood Cannery,75,708.38
+1997-Dec,New Orleans Cajun Delights,132,2407.7
+1997-Dec,Nord-Ost-Fisch Handelsgesellschaft mbH,40,796.12
+1997-Dec,Norske Meierier,52,1293.2
+1997-Dec,Pasta Buttini s.r.l.,100,3534
+1997-Dec,Pavlova Ltd.,288,8681
+1997-Dec,PB Knäckebröd AB,10,210
+1997-Dec,Plutzer Lebensmittelgroßmärkte AG,263,11119.19
+1997-Dec,Refrescos Americanas LTDA,40,166.5
+1997-Dec,Specialty Biscuits Ltd.,187,1959.26
+1997-Dec,Svensk Sjöföda AB,30,570
+1997-Dec,Tokyo Traders,102,2074.5
+1997-Dec,Zaanse Snoepfabriek,30,285
+1997-Feb,Aux joyeux ecclésiastiques,26,374.4
+1997-Feb,Bigfoot Breweries,28,294.4
+1997-Feb,Cooperativa de Quesos 'Las Cabras',57,1141.44
+1997-Feb,Exotic Liquids,55,733.4
+1997-Feb,Forêts d'érables,150,3693.2
+1997-Feb,Formaggi Fortini s.r.l.,53,1417
+1997-Feb,G'day Mate,100,1890.6
+1997-Feb,Gai pâturage,36,1584
+1997-Feb,Grandma Kelly's Homestead,16,364.8
+1997-Feb,Heli Süßwaren GmbH & Co. KG,101,3024.9
+1997-Feb,Karkki Oy,39,505.92
+1997-Feb,Leka Trading,120,2208.5
+1997-Feb,Lyngbysild,35,307.2
+1997-Feb,Ma Maison,281,3526.42
+1997-Feb,New England Seafood Cannery,50,525
+1997-Feb,New Orleans Cajun Delights,123,1827.36
+1997-Feb,Nord-Ost-Fisch Handelsgesellschaft mbH,28,434.7
+1997-Feb,Norske Meierier,102,1442.4
+1997-Feb,Pasta Buttini s.r.l.,98,2588.8
+1997-Feb,Pavlova Ltd.,120,1605.74
+1997-Feb,PB Knäckebröd AB,12,201.6
+1997-Feb,Plutzer Lebensmittelgroßmärkte AG,235,6477.42
+1997-Feb,Refrescos Americanas LTDA,20,64.8
+1997-Feb,Specialty Biscuits Ltd.,168,1127.94
+1997-Feb,Tokyo Traders,64,984
+1997-Feb,Zaanse Snoepfabriek,15,137.7
+1997-Jan,Aux joyeux ecclésiastiques,99,18803.36
+1997-Jan,Bigfoot Breweries,95,1195.2
+1997-Jan,Cooperativa de Quesos 'Las Cabras',30,504
+1997-Jan,Exotic Liquids,144,1801.6
+1997-Jan,Forêts d'érables,91,3319.8
+1997-Jan,Formaggi Fortini s.r.l.,14,140
+1997-Jan,G'day Mate,25,596.05
+1997-Jan,Gai pâturage,175,5915.2
+1997-Jan,Heli Süßwaren GmbH & Co. KG,72,1755.45
+1997-Jan,Karkki Oy,134,1873.6
+1997-Jan,Leka Trading,80,921.6
+1997-Jan,Lyngbysild,22,206.4
+1997-Jan,Ma Maison,56,415.4
+1997-Jan,Mayumi's,69,1217.64
+1997-Jan,New England Seafood Cannery,77,731.71
+1997-Jan,New Orleans Cajun Delights,20,336
+1997-Jan,Nord-Ost-Fisch Handelsgesellschaft mbH,18,372.6
+1997-Jan,Norske Meierier,229,2507.2
+1997-Jan,Pasta Buttini s.r.l.,125,3504
+1997-Jan,Pavlova Ltd.,226,5892.99
+1997-Jan,PB Knäckebröd AB,60,432
+1997-Jan,Plutzer Lebensmittelgroßmärkte AG,115,4093.52
+1997-Jan,Specialty Biscuits Ltd.,200,1517.65
+1997-Jan,Svensk Sjöföda AB,35,492.4
+1997-Jan,Tokyo Traders,35,1516.8
+1997-Jan,Zaanse Snoepfabriek,155,1195.9
+1997-Jul,Aux joyeux ecclésiastiques,20,3844.88
+1997-Jul,Bigfoot Breweries,54,837
+1997-Jul,Cooperativa de Quesos 'Las Cabras',14,294
+1997-Jul,Escargots Nouveaux,30,397.5
+1997-Jul,Exotic Liquids,53,852
+1997-Jul,Forêts d'érables,140,3452.4
+1997-Jul,Formaggi Fortini s.r.l.,12,417.6
+1997-Jul,G'day Mate,28,191.8
+1997-Jul,Gai pâturage,210,8503.5
+1997-Jul,Grandma Kelly's Homestead,55,1650
+1997-Jul,Heli Süßwaren GmbH & Co. KG,61,2530.72
+1997-Jul,Karkki Oy,137,2494.6
+1997-Jul,Leka Trading,100,1120
+1997-Jul,Ma Maison,79,906.3
+1997-Jul,Mayumi's,93,771.33
+1997-Jul,New England Seafood Cannery,42,772.8
+1997-Jul,New Orleans Cajun Delights,32,554.08
+1997-Jul,Norske Meierier,138,3172.25
+1997-Jul,Pasta Buttini s.r.l.,67,2138
+1997-Jul,Pavlova Ltd.,209,7453.96
+1997-Jul,PB Knäckebröd AB,48,1008
+1997-Jul,Plutzer Lebensmittelgroßmärkte AG,155,1545.75
+1997-Jul,Refrescos Americanas LTDA,35,126
+1997-Jul,Specialty Biscuits Ltd.,35,1500.8
+1997-Jul,Svensk Sjöföda AB,106,1794.25
+1997-Jul,Tokyo Traders,80,2480
+1997-Jul,Zaanse Snoepfabriek,21,211.35
+1997-Jun,Aux joyeux ecclésiastiques,10,180
+1997-Jun,Bigfoot Breweries,60,920
+1997-Jun,Cooperativa de Quesos 'Las Cabras',50,924
+1997-Jun,Exotic Liquids,10,180
+1997-Jun,Forêts d'érables,35,1491.33
+1997-Jun,Formaggi Fortini s.r.l.,235,4032.2
+1997-Jun,G'day Mate,236,6827.4
+1997-Jun,Gai pâturage,76,3113.6
+1997-Jun,Karkki Oy,64,1152
+1997-Jun,Leka Trading,59,936.15
+1997-Jun,Ma Maison,43,980.4
+1997-Jun,Mayumi's,66,1261.7
+1997-Jun,New England Seafood Cannery,73,1149.32
+1997-Jun,New Orleans Cajun Delights,30,599.93
+1997-Jun,Nord-Ost-Fisch Handelsgesellschaft mbH,20,517.8
+1997-Jun,Norske Meierier,44,386
+1997-Jun,Pasta Buttini s.r.l.,110,3577
+1997-Jun,Pavlova Ltd.,70,2702.91
+1997-Jun,Plutzer Lebensmittelgroßmärkte AG,208,4094.93
+1997-Jun,Refrescos Americanas LTDA,43,166.05
+1997-Jun,Specialty Biscuits Ltd.,35,257.6
+1997-Jun,Svensk Sjöföda AB,28,520
+1997-Jun,Tokyo Traders,5,155
+1997-Jun,Zaanse Snoepfabriek,25,237.5
+1997-Mar,Aux joyeux ecclésiastiques,50,6540
+1997-Mar,Bigfoot Breweries,35,372.4
+1997-Mar,Cooperativa de Quesos 'Las Cabras',30,441
+1997-Mar,Exotic Liquids,95,1150.4
+1997-Mar,Formaggi Fortini s.r.l.,35,297.5
+1997-Mar,G'day Mate,74,2684
+1997-Mar,Gai pâturage,222,8760
+1997-Mar,Grandma Kelly's Homestead,30,720
+1997-Mar,Heli Süßwaren GmbH & Co. KG,42,881.4
+1997-Mar,Karkki Oy,91,1223.08
+1997-Mar,Leka Trading,85,1446.38
+1997-Mar,Lyngbysild,35,253.2
+1997-Mar,Ma Maison,56,661.08
+1997-Mar,Mayumi's,13,228
+1997-Mar,New England Seafood Cannery,61,896.7
+1997-Mar,New Orleans Cajun Delights,76,918.88
+1997-Mar,Nord-Ost-Fisch Handelsgesellschaft mbH,8,165.6
+1997-Mar,Norske Meierier,24,230.4
+1997-Mar,Pasta Buttini s.r.l.,50,1337.6
+1997-Mar,Pavlova Ltd.,155,2955.73
+1997-Mar,PB Knäckebröd AB,36,259.2
+1997-Mar,Plutzer Lebensmittelgroßmärkte AG,157,3913.28
+1997-Mar,Refrescos Americanas LTDA,133,464.4
+1997-Mar,Specialty Biscuits Ltd.,91,727.8
+1997-Mar,Svensk Sjöföda AB,20,192
+1997-Mar,Tokyo Traders,36,599.2
+1997-Mar,Zaanse Snoepfabriek,30,228
+1997-May,Aux joyeux ecclésiastiques,34,8853.6
+1997-May,Bigfoot Breweries,73,1157
+1997-May,Cooperativa de Quesos 'Las Cabras',138,3228.75
+1997-May,Escargots Nouveaux,20,265
+1997-May,Exotic Liquids,68,722.4
+1997-May,Forêts d'érables,90,3735.2
+1997-May,Formaggi Fortini s.r.l.,214,4151.18
+1997-May,G'day Mate,54,2480.4
+1997-May,Gai pâturage,52,1745
+1997-May,Grandma Kelly's Homestead,10,300
+1997-May,Heli Süßwaren GmbH & Co. KG,40,1249.2
+1997-May,Karkki Oy,56,1020
+1997-May,Leka Trading,125,4688
+1997-May,Lyngbysild,100,807.5
+1997-May,Ma Maison,63,677.21
+1997-May,Mayumi's,18,108
+1997-May,New England Seafood Cannery,55,748.41
+1997-May,New Orleans Cajun Delights,160,3125.02
+1997-May,Nord-Ost-Fisch Handelsgesellschaft mbH,35,906.15
+1997-May,Norske Meierier,90,1310.65
+1997-May,Pasta Buttini s.r.l.,35,1056.75
+1997-May,Pavlova Ltd.,164,4158.23
+1997-May,PB Knäckebröd AB,114,1210.5
+1997-May,Plutzer Lebensmittelgroßmärkte AG,47,675.2
+1997-May,Refrescos Americanas LTDA,35,141.75
+1997-May,Specialty Biscuits Ltd.,101,2077
+1997-May,Svensk Sjöföda AB,171,3121.2
+1997-May,Tokyo Traders,2,62
+1997-Nov,Bigfoot Breweries,65,924
+1997-Nov,Cooperativa de Quesos 'Las Cabras',5,105
+1997-Nov,Exotic Liquids,93,1472
+1997-Nov,Forêts d'érables,59,2435.7
+1997-Nov,Formaggi Fortini s.r.l.,63,1917.23
+1997-Nov,G'day Mate,133,2231.5
+1997-Nov,Gai pâturage,158,7091.25
+1997-Nov,Grandma Kelly's Homestead,30,750
+1997-Nov,Heli Süßwaren GmbH & Co. KG,32,961.88
+1997-Nov,Karkki Oy,110,1842.5
+1997-Nov,Leka Trading,44,703.2
+1997-Nov,Lyngbysild,112,984.2
+1997-Nov,Ma Maison,12,288
+1997-Nov,Mayumi's,31,530.81
+1997-Nov,New England Seafood Cannery,146,2091.15
+1997-Nov,New Orleans Cajun Delights,75,1591.98
+1997-Nov,Nord-Ost-Fisch Handelsgesellschaft mbH,60,1553.4
+1997-Nov,Norske Meierier,118,3879
+1997-Nov,Pasta Buttini s.r.l.,111,3480.35
+1997-Nov,Pavlova Ltd.,132,4587.11
+1997-Nov,PB Knäckebröd AB,44,396
+1997-Nov,Plutzer Lebensmittelgroßmärkte AG,71,2070.8
+1997-Nov,Specialty Biscuits Ltd.,76,740
+1997-Nov,Svensk Sjöföda AB,41,643
+1997-Nov,Tokyo Traders,5,50
+1997-Nov,Zaanse Snoepfabriek,30,213.75
+1997-Oct,Bigfoot Breweries,56,829.9
+1997-Oct,Cooperativa de Quesos 'Las Cabras',55,1835
+1997-Oct,Escargots Nouveaux,42,417.38
+1997-Oct,Exotic Liquids,114,1724
+1997-Oct,Forêts d'érables,83,3779.9
+1997-Oct,Formaggi Fortini s.r.l.,74,1003
+1997-Oct,G'day Mate,162,5912.48
+1997-Oct,Gai pâturage,120,6043.5
+1997-Oct,Grandma Kelly's Homestead,140,4700
+1997-Oct,Heli Süßwaren GmbH & Co. KG,45,1405.35
+1997-Oct,Karkki Oy,50,805.5
+1997-Oct,Leka Trading,138,4334.68
+1997-Oct,Lyngbysild,152,1549
+1997-Oct,Ma Maison,142,1363.2
+1997-Oct,New England Seafood Cannery,54,521.1
+1997-Oct,New Orleans Cajun Delights,75,1517.24
+1997-Oct,Nord-Ost-Fisch Handelsgesellschaft mbH,3,58.25
+1997-Oct,Norske Meierier,173,3987.5
+1997-Oct,Pasta Buttini s.r.l.,108,3003
+1997-Oct,Pavlova Ltd.,243,5563.15
+1997-Oct,Plutzer Lebensmittelgroßmärkte AG,184,9443.21
+1997-Oct,Refrescos Americanas LTDA,55,247.5
+1997-Oct,Specialty Biscuits Ltd.,146,1521.2
+1997-Oct,Svensk Sjöföda AB,95,1571.25
+1997-Oct,Tokyo Traders,79,2789.2
+1997-Oct,Zaanse Snoepfabriek,91,823.75
+1997-Sep,Aux joyeux ecclésiastiques,38,3924.45
+1997-Sep,Bigfoot Breweries,25,350
+1997-Sep,Cooperativa de Quesos 'Las Cabras',100,3800
+1997-Sep,Escargots Nouveaux,79,916.9
+1997-Sep,Forêts d'érables,10,493
+1997-Sep,Formaggi Fortini s.r.l.,48,515
+1997-Sep,G'day Mate,59,2458
+1997-Sep,Gai pâturage,148,5143.5
+1997-Sep,Heli Süßwaren GmbH & Co. KG,45,1264.82
+1997-Sep,Karkki Oy,10,180
+1997-Sep,Leka Trading,151,2357.59
+1997-Sep,Lyngbysild,105,1260
+1997-Sep,Ma Maison,40,350.13
+1997-Sep,Mayumi's,83,1535.28
+1997-Sep,New England Seafood Cannery,312,4118.12
+1997-Sep,New Orleans Cajun Delights,53,1037.09
+1997-Sep,Nord-Ost-Fisch Handelsgesellschaft mbH,2,38.84
+1997-Sep,Norske Meierier,139,1961.8
+1997-Sep,Pasta Buttini s.r.l.,57,2097.6
+1997-Sep,Pavlova Ltd.,163,2858.38
+1997-Sep,PB Knäckebröd AB,57,648
+1997-Sep,Plutzer Lebensmittelgroßmärkte AG,214,8364.97
+1997-Sep,Specialty Biscuits Ltd.,152,2929.6
+1997-Sep,Svensk Sjöföda AB,86,1405.5
+1997-Sep,Tokyo Traders,96,4951.9
+1997-Sep,Zaanse Snoepfabriek,71,668.8
+1998-Apr,Aux joyeux ecclésiastiques,25,6587.5
+1998-Apr,Bigfoot Breweries,317,4660.3
+1998-Apr,Cooperativa de Quesos 'Las Cabras',54,1813.6
+1998-Apr,Escargots Nouveaux,40,503.5
+1998-Apr,Exotic Liquids,330,4941.25
+1998-Apr,Forêts d'érables,130,3793.43
+1998-Apr,Formaggi Fortini s.r.l.,137,4171.1
+1998-Apr,G'day Mate,245,8944.05
+1998-Apr,Gai pâturage,496,22140.3
+1998-Apr,Grandma Kelly's Homestead,154,4920
+1998-Apr,Heli Süßwaren GmbH & Co. KG,96,2739.63
+1998-Apr,Karkki Oy,208,3454
+1998-Apr,Leka Trading,199,4526.75
+1998-Apr,Lyngbysild,68,706
+1998-Apr,Ma Maison,191,4184.5
+1998-Apr,Mayumi's,193,1146
+1998-Apr,New England Seafood Cannery,168,1860.39
+1998-Apr,New Orleans Cajun Delights,146,2829.43
+1998-Apr,Nord-Ost-Fisch Handelsgesellschaft mbH,15,388.35
+1998-Apr,Norske Meierier,318,6554.9
+1998-Apr,Pasta Buttini s.r.l.,73,1886
+1998-Apr,Pavlova Ltd.,176,6125.8
+1998-Apr,PB Knäckebröd AB,35,615
+1998-Apr,Plutzer Lebensmittelgroßmärkte AG,366,18156.51
+1998-Apr,Refrescos Americanas LTDA,140,553.5
+1998-Apr,Specialty Biscuits Ltd.,247,3539
+1998-Apr,Svensk Sjöföda AB,69,1225.5
+1998-Apr,Tokyo Traders,44,832.4
+1998-Feb,Aux joyeux ecclésiastiques,233,27859.9
+1998-Feb,Bigfoot Breweries,77,1226
+1998-Feb,Cooperativa de Quesos 'Las Cabras',90,1680
+1998-Feb,Escargots Nouveaux,42,532.65
+1998-Feb,Exotic Liquids,151,2607.25
+1998-Feb,Forêts d'érables,111,4167.63
+1998-Feb,Formaggi Fortini s.r.l.,41,629.5
+1998-Feb,G'day Mate,19,297.5
+1998-Feb,Gai pâturage,140,5490
+1998-Feb,Grandma Kelly's Homestead,112,3317.5
+1998-Feb,Heli Süßwaren GmbH & Co. KG,25,694.6
+1998-Feb,Karkki Oy,97,1776
+1998-Feb,Leka Trading,25,350
+1998-Feb,Lyngbysild,36,394.5
+1998-Feb,Ma Maison,82,1117.14
+1998-Feb,Mayumi's,73,429.6
+1998-Feb,New England Seafood Cannery,152,2368.05
+1998-Feb,New Orleans Cajun Delights,94,1807.47
+1998-Feb,Nord-Ost-Fisch Handelsgesellschaft mbH,126,2983.82
+1998-Feb,Norske Meierier,175,3042.5
+1998-Feb,Pasta Buttini s.r.l.,57,1756.1
+1998-Feb,Pavlova Ltd.,224,5640.06
+1998-Feb,PB Knäckebröd AB,80,666
+1998-Feb,Plutzer Lebensmittelgroßmärkte AG,401,21557.32
+1998-Feb,Refrescos Americanas LTDA,146,650.25
+1998-Feb,Specialty Biscuits Ltd.,175,3184.4
+1998-Feb,Svensk Sjöföda AB,30,530
+1998-Feb,Tokyo Traders,80,2480
+1998-Feb,Zaanse Snoepfabriek,21,179.55
+1998-Jan,Aux joyeux ecclésiastiques,129,19075.75
+1998-Jan,Bigfoot Breweries,59,1017
+1998-Jan,Cooperativa de Quesos 'Las Cabras',60,1218
+1998-Jan,Escargots Nouveaux,90,1073.25
+1998-Jan,Exotic Liquids,225,3123.65
+1998-Jan,Forêts d'érables,131,5471.88
+1998-Jan,Formaggi Fortini s.r.l.,149,3256.35
+1998-Jan,G'day Mate,70,1753.68
+1998-Jan,Gai pâturage,303,12747.5
+1998-Jan,Grandma Kelly's Homestead,51,1640
+1998-Jan,Heli Süßwaren GmbH & Co. KG,166,3793.39
+1998-Jan,Karkki Oy,91,1408.5
+1998-Jan,Leka Trading,119,2806.16
+1998-Jan,Lyngbysild,71,693.6
+1998-Jan,Ma Maison,35,195.56
+1998-Jan,Mayumi's,91,483.9
+1998-Jan,New England Seafood Cannery,167,2452.2
+1998-Jan,New Orleans Cajun Delights,66,1370.89
+1998-Jan,Nord-Ost-Fisch Handelsgesellschaft mbH,20,491.91
+1998-Jan,Norske Meierier,110,1082
+1998-Jan,Pasta Buttini s.r.l.,168,5076.25
+1998-Jan,Pavlova Ltd.,249,7163.88
+1998-Jan,PB Knäckebröd AB,175,2556
+1998-Jan,Plutzer Lebensmittelgroßmärkte AG,201,6116.9
+1998-Jan,Refrescos Americanas LTDA,40,135
+1998-Jan,Specialty Biscuits Ltd.,118,1599.72
+1998-Jan,Svensk Sjöföda AB,110,1960.5
+1998-Jan,Tokyo Traders,154,4087
+1998-Jan,Zaanse Snoepfabriek,48,371.7
+1998-Mar,Aux joyeux ecclésiastiques,95,17667.5
+1998-Mar,Bigfoot Breweries,134,1924.8
+1998-Mar,Cooperativa de Quesos 'Las Cabras',102,2965.75
+1998-Mar,Escargots Nouveaux,30,318
+1998-Mar,Exotic Liquids,91,1349.5
+1998-Mar,Forêts d'érables,186,7821.09
+1998-Mar,Formaggi Fortini s.r.l.,289,6219.68
+1998-Mar,G'day Mate,159,5013.9
+1998-Mar,Gai pâturage,114,3198.4
+1998-Mar,Grandma Kelly's Homestead,341,10010
+1998-Mar,Heli Süßwaren GmbH & Co. KG,84,2906.65
+1998-Mar,Karkki Oy,240,4398.25
+1998-Mar,Leka Trading,83,2359.77
+1998-Mar,Lyngbysild,54,573
+1998-Mar,Ma Maison,29,576
+1998-Mar,Mayumi's,288,1584.6
+1998-Mar,New England Seafood Cannery,70,935.11
+1998-Mar,New Orleans Cajun Delights,25,537
+1998-Mar,Nord-Ost-Fisch Handelsgesellschaft mbH,31,802.59
+1998-Mar,Norske Meierier,76,1301.5
+1998-Mar,Pasta Buttini s.r.l.,75,1949.1
+1998-Mar,Pavlova Ltd.,323,9505.39
+1998-Mar,PB Knäckebröd AB,29,495
+1998-Mar,Plutzer Lebensmittelgroßmärkte AG,373,7184.29
+1998-Mar,Refrescos Americanas LTDA,200,888.75
+1998-Mar,Specialty Biscuits Ltd.,317,7812.3
+1998-Mar,Svensk Sjöföda AB,103,1827.75
+1998-Mar,Tokyo Traders,75,2263
+1998-Mar,Zaanse Snoepfabriek,49,465.5
+1998-May,Aux joyeux ecclésiastiques,22,394.2
+1998-May,Bigfoot Breweries,35,490
+1998-May,Cooperativa de Quesos 'Las Cabras',12,282.2
+1998-May,Exotic Liquids,106,1653.3
+1998-May,Formaggi Fortini s.r.l.,21,282
+1998-May,G'day Mate,27,752
+1998-May,Gai pâturage,2,63.92
+1998-May,Grandma Kelly's Homestead,39,927.5
+1998-May,Karkki Oy,24,388.1
+1998-May,Leka Trading,36,1407.6
+1998-May,Lyngbysild,33,341.28
+1998-May,Ma Maison,26,246.15
+1998-May,Mayumi's,35,452.3
+1998-May,New England Seafood Cannery,64,617.6
+1998-May,New Orleans Cajun Delights,2,39
+1998-May,Nord-Ost-Fisch Handelsgesellschaft mbH,4,77.67
+1998-May,Pavlova Ltd.,126,3465.96
+1998-May,PB Knäckebröd AB,2,18
+1998-May,Plutzer Lebensmittelgroßmärkte AG,174,5063.49
+1998-May,Refrescos Americanas LTDA,20,90
+1998-May,Specialty Biscuits Ltd.,108,1220.66
+1998-May,Svensk Sjöföda AB,2,29.7
+1998-May,Tokyo Traders,1,31
